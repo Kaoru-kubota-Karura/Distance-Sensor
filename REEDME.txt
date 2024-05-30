@@ -1,0 +1,19 @@
+Step one
+    Connect Arduino to Laptop by USB cable
+
+Step Two
+    Open DistanceDataTracker file which located inside of DistanceDataTracker folda.
+
+Step Three
+    Send the code to Arduino and make sure it works
+
+Step Four
+    Close the Arduino IDE 
+
+Step Five 
+    Open DataSave.py and start runnning the code by pressing triangle button which located top right of the Visual Studio code
+
+Step Six
+    Data will save "data_log.csv" and able to get graph until you stop the code or disconect to Arduino
+    If re-start recording the data, every data will reset. 
+    Make Sure save the data to other file. 
